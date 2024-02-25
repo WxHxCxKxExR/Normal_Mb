@@ -7,3 +7,4 @@ elseif game.PlaceId == 6299805723 then
 else
     game.Players.LocalPlayer:Kick("❗Normal Hub ❗ Not Support This Game")
 end
+print("Load Script")
